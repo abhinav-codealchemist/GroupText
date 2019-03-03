@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/GroupText.svg)](http://hits.dwyl.io/abhinav-codealchemist/GroupText)
 # GroupText
 Message Broadcasting System
 
